@@ -7,7 +7,7 @@ public class Main {
 
         String spattern = "([\\w\\s*\\W]*(P(OST)?.?\\s*((O(FF(ICE)?)?)?.?\\s*(B(IN|OX|.?))|B(IN|OX))+))[\\w\\s*\\W]*";
 
-        String regex = "2";
+        String regex = "1838 Allison Way";
 
         Pattern pattern = Pattern.compile(spattern,Pattern.CASE_INSENSITIVE);
 
